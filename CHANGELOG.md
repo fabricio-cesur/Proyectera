@@ -2,7 +2,7 @@
 
 Todas las modificaciones importantes en el proyecto están en este documento.
 
-## 1.1.0 - XX/XX/2025
+## 1.1.0 - 02/03/2025
 
 ### Arreglado
 - Se resolvió un bug que te dejaba en bucle infinito al intentar mejorar las minas cuando no tenías recursos.
