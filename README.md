@@ -17,4 +17,7 @@ Se juega ingresando una serie de comandos en la consola para ver tus recursos, u
 | `m` | Te muestra la producción de las minas y te deja mejorarlas. |
 | `p` | Para el juego y cierra las fábricas, tu progreso se guardará. |
 
-### Gracias por jugar!
+### Gracias por jugar!!
+
+
+# Test Jorge
